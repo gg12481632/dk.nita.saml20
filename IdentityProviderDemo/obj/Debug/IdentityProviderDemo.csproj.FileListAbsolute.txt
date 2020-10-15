@@ -1,0 +1,17 @@
+D:\bitbucketroot\polcam.web\libs\OIOSAML.Net\src\dk.nita.saml20\IdentityProviderDemo\bin\IdentityProviderDemo.dll.config
+D:\bitbucketroot\polcam.web\libs\OIOSAML.Net\src\dk.nita.saml20\IdentityProviderDemo\bin\IdentityProviderDemo.dll
+D:\bitbucketroot\polcam.web\libs\OIOSAML.Net\src\dk.nita.saml20\IdentityProviderDemo\bin\IdentityProviderDemo.pdb
+D:\bitbucketroot\polcam.web\libs\OIOSAML.Net\src\dk.nita.saml20\IdentityProviderDemo\bin\dk.nita.saml20.dll
+D:\bitbucketroot\polcam.web\libs\OIOSAML.Net\src\dk.nita.saml20\IdentityProviderDemo\bin\dk.nita.saml20.ext.audit.log4net.dll
+D:\bitbucketroot\polcam.web\libs\OIOSAML.Net\src\dk.nita.saml20\IdentityProviderDemo\bin\log4net.dll
+D:\bitbucketroot\polcam.web\libs\OIOSAML.Net\src\dk.nita.saml20\IdentityProviderDemo\bin\dk.nita.saml20.ext.audit.log4net.pdb
+D:\bitbucketroot\polcam.web\libs\OIOSAML.Net\src\dk.nita.saml20\IdentityProviderDemo\bin\dk.nita.saml20.ext.audit.log4net.xml
+D:\bitbucketroot\polcam.web\libs\OIOSAML.Net\src\dk.nita.saml20\IdentityProviderDemo\bin\dk.nita.saml20.ext.audit.log4net.dll.config
+D:\bitbucketroot\polcam.web\libs\OIOSAML.Net\src\dk.nita.saml20\IdentityProviderDemo\bin\dk.nita.saml20.pdb
+D:\bitbucketroot\polcam.web\libs\OIOSAML.Net\src\dk.nita.saml20\IdentityProviderDemo\bin\dk.nita.saml20.xml
+D:\bitbucketroot\polcam.web\libs\OIOSAML.Net\src\dk.nita.saml20\IdentityProviderDemo\bin\log4net.xml
+D:\bitbucketroot\polcam.web\libs\OIOSAML.Net\src\dk.nita.saml20\IdentityProviderDemo\obj\Debug\IdentityProviderDemo.csprojAssemblyReference.cache
+D:\bitbucketroot\polcam.web\libs\OIOSAML.Net\src\dk.nita.saml20\IdentityProviderDemo\obj\Debug\IdentityProviderDemo.csproj.CoreCompileInputs.cache
+D:\bitbucketroot\polcam.web\libs\OIOSAML.Net\src\dk.nita.saml20\IdentityProviderDemo\obj\Debug\IdentityProviderDemo.csproj.CopyComplete
+D:\bitbucketroot\polcam.web\libs\OIOSAML.Net\src\dk.nita.saml20\IdentityProviderDemo\obj\Debug\IdentityProviderDemo.dll
+D:\bitbucketroot\polcam.web\libs\OIOSAML.Net\src\dk.nita.saml20\IdentityProviderDemo\obj\Debug\IdentityProviderDemo.pdb

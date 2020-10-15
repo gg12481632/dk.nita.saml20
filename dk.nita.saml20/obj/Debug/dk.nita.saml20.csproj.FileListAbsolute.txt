@@ -1,0 +1,11 @@
+D:\bitbucketroot\polcam.web\libs\OIOSAML.Net\src\dk.nita.saml20\dk.nita.saml20\bin\Debug\dk.nita.saml20.xml
+D:\bitbucketroot\polcam.web\libs\OIOSAML.Net\src\dk.nita.saml20\dk.nita.saml20\bin\Debug\dk.nita.saml20.dll
+D:\bitbucketroot\polcam.web\libs\OIOSAML.Net\src\dk.nita.saml20\dk.nita.saml20\bin\Debug\dk.nita.saml20.pdb
+D:\bitbucketroot\polcam.web\libs\OIOSAML.Net\src\dk.nita.saml20\dk.nita.saml20\obj\Debug\dk.nita.saml20.Properties.Resources.resources
+D:\bitbucketroot\polcam.web\libs\OIOSAML.Net\src\dk.nita.saml20\dk.nita.saml20\obj\Debug\dk.nita.saml20.Properties.Saml20Resources.resources
+D:\bitbucketroot\polcam.web\libs\OIOSAML.Net\src\dk.nita.saml20\dk.nita.saml20\obj\Debug\dk.nita.saml20.Properties.Tracing.resources
+D:\bitbucketroot\polcam.web\libs\OIOSAML.Net\src\dk.nita.saml20\dk.nita.saml20\obj\Debug\dk.nita.saml20.csproj.GenerateResource.cache
+D:\bitbucketroot\polcam.web\libs\OIOSAML.Net\src\dk.nita.saml20\dk.nita.saml20\obj\Debug\dk.nita.saml20.csproj.CoreCompileInputs.cache
+D:\bitbucketroot\polcam.web\libs\OIOSAML.Net\src\dk.nita.saml20\dk.nita.saml20\obj\Debug\dk.nita.saml20.dll
+D:\bitbucketroot\polcam.web\libs\OIOSAML.Net\src\dk.nita.saml20\dk.nita.saml20\obj\Debug\dk.nita.saml20.pdb
+D:\bitbucketroot\polcam.web\libs\OIOSAML.Net\src\dk.nita.saml20\dk.nita.saml20\obj\Debug\dk.nita.saml20.csprojAssemblyReference.cache

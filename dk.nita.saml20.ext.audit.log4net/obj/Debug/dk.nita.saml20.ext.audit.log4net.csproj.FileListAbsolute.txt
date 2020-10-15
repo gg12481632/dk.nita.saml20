@@ -1,0 +1,14 @@
+D:\bitbucketroot\polcam.web\libs\OIOSAML.Net\src\dk.nita.saml20\dk.nita.saml20.ext.audit.log4net\bin\Debug\dk.nita.saml20.ext.audit.log4net.dll.config
+D:\bitbucketroot\polcam.web\libs\OIOSAML.Net\src\dk.nita.saml20\dk.nita.saml20.ext.audit.log4net\bin\Debug\dk.nita.saml20.ext.audit.log4net.xml
+D:\bitbucketroot\polcam.web\libs\OIOSAML.Net\src\dk.nita.saml20\dk.nita.saml20.ext.audit.log4net\bin\Debug\dk.nita.saml20.ext.audit.log4net.dll
+D:\bitbucketroot\polcam.web\libs\OIOSAML.Net\src\dk.nita.saml20\dk.nita.saml20.ext.audit.log4net\bin\Debug\dk.nita.saml20.ext.audit.log4net.pdb
+D:\bitbucketroot\polcam.web\libs\OIOSAML.Net\src\dk.nita.saml20\dk.nita.saml20.ext.audit.log4net\bin\Debug\dk.nita.saml20.dll
+D:\bitbucketroot\polcam.web\libs\OIOSAML.Net\src\dk.nita.saml20\dk.nita.saml20.ext.audit.log4net\bin\Debug\log4net.dll
+D:\bitbucketroot\polcam.web\libs\OIOSAML.Net\src\dk.nita.saml20\dk.nita.saml20.ext.audit.log4net\bin\Debug\dk.nita.saml20.pdb
+D:\bitbucketroot\polcam.web\libs\OIOSAML.Net\src\dk.nita.saml20\dk.nita.saml20.ext.audit.log4net\bin\Debug\dk.nita.saml20.xml
+D:\bitbucketroot\polcam.web\libs\OIOSAML.Net\src\dk.nita.saml20\dk.nita.saml20.ext.audit.log4net\bin\Debug\log4net.xml
+D:\bitbucketroot\polcam.web\libs\OIOSAML.Net\src\dk.nita.saml20\dk.nita.saml20.ext.audit.log4net\obj\Debug\dk.nita.saml20.ext.audit.log4net.csprojAssemblyReference.cache
+D:\bitbucketroot\polcam.web\libs\OIOSAML.Net\src\dk.nita.saml20\dk.nita.saml20.ext.audit.log4net\obj\Debug\dk.nita.saml20.ext.audit.log4net.csproj.CoreCompileInputs.cache
+D:\bitbucketroot\polcam.web\libs\OIOSAML.Net\src\dk.nita.saml20\dk.nita.saml20.ext.audit.log4net\obj\Debug\dk.nita.saml20.ext.audit.log4net.csproj.CopyComplete
+D:\bitbucketroot\polcam.web\libs\OIOSAML.Net\src\dk.nita.saml20\dk.nita.saml20.ext.audit.log4net\obj\Debug\dk.nita.saml20.ext.audit.log4net.dll
+D:\bitbucketroot\polcam.web\libs\OIOSAML.Net\src\dk.nita.saml20\dk.nita.saml20.ext.audit.log4net\obj\Debug\dk.nita.saml20.ext.audit.log4net.pdb

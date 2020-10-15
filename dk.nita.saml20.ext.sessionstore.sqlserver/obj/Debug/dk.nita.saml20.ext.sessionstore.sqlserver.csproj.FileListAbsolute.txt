@@ -1,0 +1,11 @@
+D:\bitbucketroot\polcam.web\libs\OIOSAML.Net\src\dk.nita.saml20\dk.nita.saml20.ext.sessionstore.sqlserver\bin\Debug\dk.nita.saml20.ext.sessionstore.sqlserver.xml
+D:\bitbucketroot\polcam.web\libs\OIOSAML.Net\src\dk.nita.saml20\dk.nita.saml20.ext.sessionstore.sqlserver\bin\Debug\dk.nita.saml20.ext.sessionstore.sqlserver.dll
+D:\bitbucketroot\polcam.web\libs\OIOSAML.Net\src\dk.nita.saml20\dk.nita.saml20.ext.sessionstore.sqlserver\bin\Debug\dk.nita.saml20.ext.sessionstore.sqlserver.pdb
+D:\bitbucketroot\polcam.web\libs\OIOSAML.Net\src\dk.nita.saml20\dk.nita.saml20.ext.sessionstore.sqlserver\bin\Debug\dk.nita.saml20.dll
+D:\bitbucketroot\polcam.web\libs\OIOSAML.Net\src\dk.nita.saml20\dk.nita.saml20.ext.sessionstore.sqlserver\bin\Debug\dk.nita.saml20.pdb
+D:\bitbucketroot\polcam.web\libs\OIOSAML.Net\src\dk.nita.saml20\dk.nita.saml20.ext.sessionstore.sqlserver\bin\Debug\dk.nita.saml20.xml
+D:\bitbucketroot\polcam.web\libs\OIOSAML.Net\src\dk.nita.saml20\dk.nita.saml20.ext.sessionstore.sqlserver\obj\Debug\dk.nita.saml20.ext.sessionstore.sqlserver.csprojAssemblyReference.cache
+D:\bitbucketroot\polcam.web\libs\OIOSAML.Net\src\dk.nita.saml20\dk.nita.saml20.ext.sessionstore.sqlserver\obj\Debug\dk.nita.saml20.ext.sessionstore.sqlserver.csproj.CoreCompileInputs.cache
+D:\bitbucketroot\polcam.web\libs\OIOSAML.Net\src\dk.nita.saml20\dk.nita.saml20.ext.sessionstore.sqlserver\obj\Debug\dk.nita.saml20.ext.sessionstore.sqlserver.csproj.CopyComplete
+D:\bitbucketroot\polcam.web\libs\OIOSAML.Net\src\dk.nita.saml20\dk.nita.saml20.ext.sessionstore.sqlserver\obj\Debug\dk.nita.saml20.ext.sessionstore.sqlserver.dll
+D:\bitbucketroot\polcam.web\libs\OIOSAML.Net\src\dk.nita.saml20\dk.nita.saml20.ext.sessionstore.sqlserver\obj\Debug\dk.nita.saml20.ext.sessionstore.sqlserver.pdb
